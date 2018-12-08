@@ -1,1 +1,1 @@
-# Carousel
+# CollectionView Cells Carousel
